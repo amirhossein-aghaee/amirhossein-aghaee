@@ -1,7 +1,23 @@
-<h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# Hello there! 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+My name is **Amirhossein Aghaei**, and I'm passionate about programming and the tech world. 💻✨
+
+## Skills 🌟
+
+I have experience with the following technologies:
+
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **CSS** ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+- **HTML** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+- **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+## About Me 🌈
+
+I am always eager to discover and experience new things. Whether it's diving into the latest frameworks or exploring innovative solutions, I strive to enhance my skills and expand my knowledge in the ever-evolving tech landscape.
+
+### Let's Connect! 📫
+
+Feel free to reach out if you're interested in collaboration, or just want to chat about tech!
+
+[![GitHub](https://img.shields.io/badge/GitHub-AmirhosseinAghaei-black?style=flat&logo=github)](https://github.com/your-github-username)
