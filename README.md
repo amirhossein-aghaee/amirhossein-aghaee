@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is **Amirhossein Aghaei**, and I'm deeply passionate about programming and the ever-evolving tech world. 💻✨
+My name is **Amirhossein Aghaee**, and I'm deeply passionate about programming and the ever-evolving tech world. 💻✨
 
 ## 🌟 Skills
 
