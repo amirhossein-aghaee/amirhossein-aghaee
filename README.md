@@ -12,7 +12,7 @@ I have experience with the following technologies:
 - **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 - **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-## About Me 🌈
+## About Me 
 
 I am always eager to discover and experience new things. Whether it's diving into the latest frameworks or exploring innovative solutions, I strive to enhance my skills and expand my knowledge in the ever-evolving tech landscape.
 
